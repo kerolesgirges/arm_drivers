@@ -1,5 +1,6 @@
 # arm drivers- according to imt course 
 ## contant of folders 
+drivers for dio -rcc -nvic
 
 ## 1-lib 
 contans common macros and standured types files 
